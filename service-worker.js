@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ANDRIFRITZENT/utsweb3/precache-manifest.aabed31b711e985b6bdc7cb69824799b.js"
+  "/ANDRIFRITZENT.github.io/utsweb3/precache-manifest.bb746c7ce713c6e3257997c172aebe02.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/ANDRIFRITZENT/utsweb3/index.html", {
+workbox.routing.registerNavigationRoute("/ANDRIFRITZENT.github.io/utsweb3/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

@@ -1,14 +1,14 @@
 {
-  "main.css": "/ANDRIFRITZENT/utsweb3/static/css/main.5420bb9d.chunk.css",
-  "main.js": "/ANDRIFRITZENT/utsweb3/static/js/main.057112cc.chunk.js",
-  "main.js.map": "/ANDRIFRITZENT/utsweb3/static/js/main.057112cc.chunk.js.map",
-  "runtime~main.js": "/ANDRIFRITZENT/utsweb3/static/js/runtime~main.99882d2f.js",
-  "runtime~main.js.map": "/ANDRIFRITZENT/utsweb3/static/js/runtime~main.99882d2f.js.map",
-  "static/js/2.65aa1cca.chunk.js": "/ANDRIFRITZENT/utsweb3/static/js/2.65aa1cca.chunk.js",
-  "static/js/2.65aa1cca.chunk.js.map": "/ANDRIFRITZENT/utsweb3/static/js/2.65aa1cca.chunk.js.map",
-  "index.html": "/ANDRIFRITZENT/utsweb3/index.html",
-  "precache-manifest.aabed31b711e985b6bdc7cb69824799b.js": "/ANDRIFRITZENT/utsweb3/precache-manifest.aabed31b711e985b6bdc7cb69824799b.js",
-  "service-worker.js": "/ANDRIFRITZENT/utsweb3/service-worker.js",
-  "static/css/main.5420bb9d.chunk.css.map": "/ANDRIFRITZENT/utsweb3/static/css/main.5420bb9d.chunk.css.map",
-  "static/media/logo.svg": "/ANDRIFRITZENT/utsweb3/static/media/logo.ee7cd8ed.svg"
+  "main.css": "/ANDRIFRITZENT.github.io/utsweb3/static/css/main.5420bb9d.chunk.css",
+  "main.js": "/ANDRIFRITZENT.github.io/utsweb3/static/js/main.e5452d5e.chunk.js",
+  "main.js.map": "/ANDRIFRITZENT.github.io/utsweb3/static/js/main.e5452d5e.chunk.js.map",
+  "runtime~main.js": "/ANDRIFRITZENT.github.io/utsweb3/static/js/runtime~main.4f2cad65.js",
+  "runtime~main.js.map": "/ANDRIFRITZENT.github.io/utsweb3/static/js/runtime~main.4f2cad65.js.map",
+  "static/js/2.65aa1cca.chunk.js": "/ANDRIFRITZENT.github.io/utsweb3/static/js/2.65aa1cca.chunk.js",
+  "static/js/2.65aa1cca.chunk.js.map": "/ANDRIFRITZENT.github.io/utsweb3/static/js/2.65aa1cca.chunk.js.map",
+  "index.html": "/ANDRIFRITZENT.github.io/utsweb3/index.html",
+  "precache-manifest.bb746c7ce713c6e3257997c172aebe02.js": "/ANDRIFRITZENT.github.io/utsweb3/precache-manifest.bb746c7ce713c6e3257997c172aebe02.js",
+  "service-worker.js": "/ANDRIFRITZENT.github.io/utsweb3/service-worker.js",
+  "static/css/main.5420bb9d.chunk.css.map": "/ANDRIFRITZENT.github.io/utsweb3/static/css/main.5420bb9d.chunk.css.map",
+  "static/media/logo.svg": "/ANDRIFRITZENT.github.io/utsweb3/static/media/logo.ee7cd8ed.svg"
 }
