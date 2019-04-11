@@ -1,14 +1,14 @@
 {
-  "main.css": "/ANDRIFRITZENT.github.io/utsweb3/static/css/main.5420bb9d.chunk.css",
-  "main.js": "/ANDRIFRITZENT.github.io/utsweb3/static/js/main.e5452d5e.chunk.js",
-  "main.js.map": "/ANDRIFRITZENT.github.io/utsweb3/static/js/main.e5452d5e.chunk.js.map",
-  "runtime~main.js": "/ANDRIFRITZENT.github.io/utsweb3/static/js/runtime~main.4f2cad65.js",
-  "runtime~main.js.map": "/ANDRIFRITZENT.github.io/utsweb3/static/js/runtime~main.4f2cad65.js.map",
-  "static/js/2.65aa1cca.chunk.js": "/ANDRIFRITZENT.github.io/utsweb3/static/js/2.65aa1cca.chunk.js",
-  "static/js/2.65aa1cca.chunk.js.map": "/ANDRIFRITZENT.github.io/utsweb3/static/js/2.65aa1cca.chunk.js.map",
-  "index.html": "/ANDRIFRITZENT.github.io/utsweb3/index.html",
-  "precache-manifest.bb746c7ce713c6e3257997c172aebe02.js": "/ANDRIFRITZENT.github.io/utsweb3/precache-manifest.bb746c7ce713c6e3257997c172aebe02.js",
-  "service-worker.js": "/ANDRIFRITZENT.github.io/utsweb3/service-worker.js",
-  "static/css/main.5420bb9d.chunk.css.map": "/ANDRIFRITZENT.github.io/utsweb3/static/css/main.5420bb9d.chunk.css.map",
-  "static/media/logo.svg": "/ANDRIFRITZENT.github.io/utsweb3/static/media/logo.ee7cd8ed.svg"
+  "main.css": "/utsweb3/static/css/main.5420bb9d.chunk.css",
+  "main.js": "/utsweb3/static/js/main.73c6ce76.chunk.js",
+  "main.js.map": "/utsweb3/static/js/main.73c6ce76.chunk.js.map",
+  "runtime~main.js": "/utsweb3/static/js/runtime~main.0bfe0192.js",
+  "runtime~main.js.map": "/utsweb3/static/js/runtime~main.0bfe0192.js.map",
+  "static/js/2.65aa1cca.chunk.js": "/utsweb3/static/js/2.65aa1cca.chunk.js",
+  "static/js/2.65aa1cca.chunk.js.map": "/utsweb3/static/js/2.65aa1cca.chunk.js.map",
+  "index.html": "/utsweb3/index.html",
+  "precache-manifest.720c9d2db8de44f1ae10299f46a8f94f.js": "/utsweb3/precache-manifest.720c9d2db8de44f1ae10299f46a8f94f.js",
+  "service-worker.js": "/utsweb3/service-worker.js",
+  "static/css/main.5420bb9d.chunk.css.map": "/utsweb3/static/css/main.5420bb9d.chunk.css.map",
+  "static/media/logo.svg": "/utsweb3/static/media/logo.ee7cd8ed.svg"
 }
